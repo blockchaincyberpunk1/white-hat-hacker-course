@@ -1,0 +1,40 @@
+Security Awareness Quiz
+
+Objective: The objective of this assignment is to assess students' knowledge of basic security concepts. Students will create a quiz application that tests their peers' understanding of security principles, authentication methods, access controls, and encryption. The quiz will include multiple-choice questions and scenarios that require students to make security-related decisions. Immediate feedback will be provided on quiz results, highlighting correct answers and explanations for incorrect choices. This assignment will reinforce key security concepts covered in the module.
+
+Instructions:
+
+Quiz Application Development:
+
+Quiz Application: Develop a quiz application using a programming language of your choice (e.g., Python, JavaScript). The quiz should include a variety of questions related to security principles, authentication methods, access controls, and encryption.
+
+Quiz Questions: Create a set of multiple-choice questions (MCQs) that cover a range of security topics. Include both theoretical questions and scenario-based questions that require students to make security-related decisions.
+
+Theoretical Questions: These questions should test students' knowledge of security principles and concepts. For example: "What does 'Phishing' refer to in the context of cybersecurity?"
+
+Scenario-Based Questions: These questions should present a security scenario and ask students to make the best security-related decision. For example: "You receive an email from an unknown sender with a suspicious attachment. What should you do?"
+
+Immediate Feedback: Implement a mechanism to provide immediate feedback to students on their quiz results. The feedback should include the correct answers to each question and explanations for incorrect choices.
+
+User Authentication: Implement a simple user authentication mechanism to ensure that only authorized users can access and take the quiz.
+
+Question Randomization: Randomize the order of questions to prevent predictability.
+
+Scoring: Calculate and display the final score for each student after completing the quiz.
+
+Documentation: Prepare comprehensive documentation for your quiz application, including:
+
+An overview of the application's design and architecture.
+Instructions on how to run and use your application, including user authentication.
+Explanations of each quiz question and its correct answer.
+Description of the immediate feedback mechanism.
+Testing and Validation: Test your quiz application to ensure that it functions as expected and accurately evaluates students' knowledge of security concepts.
+
+Submission: Submit your quiz application code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Quiz Questions: The variety, relevance, and accuracy of the quiz questions related to security concepts.
+Functionality: The completeness and correctness of the quiz application's functionality, including user authentication, question randomization, scoring, and immediate feedback.
+Documentation: The quality and clarity of your documentation, including explanations of your design, quiz questions, and feedback mechanisms.
+Security Awareness: The effectiveness of the quiz in assessing students' knowledge of basic security concepts.

@@ -1,0 +1,43 @@
+Reverse Engineering Simple Programs
+
+Objective: The objective of this assignment is to introduce students to basic reverse engineering concepts. Students will be provided with a compiled binary executable of a simple program with no source code. They will be tasked with reverse engineering the binary to understand its functionality and logic. Additionally, students will be required to produce annotated assembly code and a written report explaining their findings.
+
+Instructions:
+
+Reverse Engineering Exercise:
+
+Concept Introduction: Introduce the concept of reverse engineering and its importance in understanding the functionality and potential security vulnerabilities of software. Explain that students will reverse engineer a simple binary executable to uncover its logic.
+
+Provided Binary Executable: Provide students with a compiled binary executable of a simple program for this assignment. Ensure that the program is relatively small and suitable for beginner-level reverse engineering.
+
+Reverse Engineering Task: Instruct students to reverse engineer the provided binary executable. Their task is to:
+
+Understand Functionality: Analyze the binary to understand its functionality, including what the program does, how it processes data, and any interactions it has with the system.
+
+Produce Annotated Assembly Code: Reverse engineer the binary to produce annotated assembly code. This annotated code should include comments explaining the purpose of each assembly instruction, the flow of control, and any notable data manipulation.
+
+Identify Security Vulnerabilities: Encourage students to look for potential security vulnerabilities or weaknesses in the binary code. These could include buffer overflows, insecure input handling, or other security issues.
+
+Written Report: Require students to create a written report that includes the following:
+
+Introduction: Provide an overview of the assignment, including the purpose of reverse engineering and the details of the provided binary.
+
+Reverse Engineering Process: Describe the steps taken to reverse engineer the binary, including tools used and challenges encountered.
+
+Annotated Assembly Code: Include the annotated assembly code generated during the reverse engineering process. Ensure that comments are clear and explanatory.
+
+Functionality Description: Explain what the reverse engineered binary does, its input and output, and how it accomplishes its tasks.
+
+Security Findings: Document any security vulnerabilities or weaknesses identified during the reverse engineering process. Discuss potential risks and implications.
+
+Conclusion: Summarize the findings, lessons learned, and the importance of reverse engineering in understanding software.
+
+Ethical Considerations: Discuss the ethical considerations of reverse engineering and the importance of conducting such activities responsibly and legally.
+
+Submission: Students should submit the annotated assembly code, the written report, and any supporting files as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Reverse Engineering: The effectiveness and completeness of reverse engineering, including understanding program logic and producing annotated assembly code.
+Report: The quality and completeness of the written report, including functionality description and security findings.
+Ethical Considerations: The understanding and application of ethical considerations in reverse engineering.

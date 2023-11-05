@@ -1,0 +1,36 @@
+CSRF Protection Mechanism
+
+Objective: The objective of this assignment is to implement a CSRF (Cross-Site Request Forgery) protection mechanism in a web application. Students will be challenged to enhance a web application by implementing CSRF protection using either a double-submit cookie or token-based approach. The assignment provides a vulnerable web application as a starting point and guides students through adding CSRF protection measures. Students will be instructed to demonstrate how the implemented protection prevents CSRF attacks by creating a proof-of-concept attack scenario.
+
+Instructions:
+
+CSRF Protection Mechanism Implementation:
+
+Vulnerable Web Application Setup: Provide students with a vulnerable web application as a starting point. The application should have a functionality that is susceptible to CSRF attacks, such as changing a user's account settings without proper authorization.
+
+CSRF Protection Implementation: Challenge students to implement a CSRF protection mechanism in the web application. They can choose between the following approaches (select one):
+
+Double-Submit Cookie: Implement a double-submit cookie mechanism to protect against CSRF attacks. In this approach, a cookie value is set upon login and must match a value in the request body to authenticate the request.
+
+Token-Based: Implement a token-based CSRF protection mechanism. In this approach, a unique token is generated for each session or request, and the token must be included in the request headers or body for the request to be considered valid.
+
+Integration and Testing: Guide students through integrating the CSRF protection mechanism into the vulnerable web application. Instruct them to thoroughly test the application to ensure that the protection works as intended.
+
+Proof-of-Concept CSRF Attack: Instruct students to create a proof-of-concept CSRF attack scenario against the unprotected version of the web application. This should demonstrate how an attacker could exploit the vulnerability.
+
+Demonstration of Protection: Challenge students to demonstrate how the implemented CSRF protection prevents the attack scenario described in step 4. Provide clear steps and evidence of the protection in action.
+
+Documentation: Prepare comprehensive documentation for the CSRF protection implementation, including:
+
+An overview of the protection mechanism chosen (double-submit cookie or token-based).
+Instructions on how to test and demonstrate the protection.
+Explanations of how the protection works and why it is effective against CSRF attacks.
+Security Considerations: Discuss the importance of implementing CSRF protection in web applications and the potential risks associated with CSRF vulnerabilities.
+
+Submission: Submit the modified and protected web application code, along with the documentation, as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the CSRF protection mechanism implementation within the web application.
+Documentation: The quality and clarity of your documentation, including explanations of the chosen protection mechanism, testing instructions, and proof-of-concept attack and defense scenarios.
+Effective Protection: The demonstration of how the implemented CSRF protection effectively prevents CSRF attacks.

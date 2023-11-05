@@ -1,0 +1,41 @@
+Malware Analysis
+
+Objective: The objective of this assignment is to explore the basics of malware analysis. Students will be provided with a small, non-malicious code snippet that simulates malware behavior. They will be tasked with analyzing the code to identify its functionality, potential threats, and indicators of compromise (IoCs). Additionally, students will be required to create a report detailing their analysis, including any identified malware characteristics.
+
+Instructions:
+
+Malware Analysis Exercise:
+
+Concept Introduction: Introduce the concept of malware analysis and its significance in cybersecurity. Explain that students will be analyzing a code snippet to understand its behavior and identify any potential threats.
+
+Provided Code Snippet: Provide students with a small code snippet that simulates malware behavior. Emphasize that this code is non-malicious and is provided solely for educational purposes.
+
+Malware Analysis Task: Instruct students to conduct a thorough analysis of the provided code snippet. Their task is to:
+
+Functionality Analysis: Identify and describe the functionality of the code, including what it does, how it operates, and any interactions it has with the system.
+
+Potential Threats: Analyze the code to determine if it contains elements that could pose a threat to the system, such as unauthorized data access or system manipulation.
+
+Indicators of Compromise (IoCs): Identify and document any indicators of compromise within the code. These may include suspicious file or registry modifications, network communications, or signs of evasion.
+
+Written Report: Require students to create a written report that includes the following:
+
+Introduction: Provide an overview of the assignment, including the purpose of malware analysis and details of the provided code snippet.
+
+Functionality Description: Describe the functionality of the code snippet, its input and output, and how it accomplishes its tasks.
+
+Potential Threats: Document any potential security threats or vulnerabilities identified during the analysis. Discuss potential risks and implications.
+
+Indicators of Compromise (IoCs): List and explain any indicators of compromise discovered within the code. Include details on what these IoCs suggest in terms of system compromise.
+
+Conclusion: Summarize the findings, lessons learned, and the importance of malware analysis in identifying and mitigating threats.
+
+Ethical Considerations: Discuss the ethical considerations of malware analysis, emphasizing the importance of conducting such activities responsibly and legally.
+
+Submission: Students should submit the written report and any supporting files as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Malware Analysis: The effectiveness and completeness of the code snippet analysis, including functionality description, identification of potential threats, and IoCs.
+Report: The quality and completeness of the written report, including functionality description, potential threats, and IoCs.
+Ethical Considerations: The understanding and application of ethical considerations in malware analysis.

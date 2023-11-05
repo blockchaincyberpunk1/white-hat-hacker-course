@@ -1,0 +1,36 @@
+SQL Injection Exploitation
+
+Objective: The objective of this assignment is to build a SQL injection demonstration tool. Students will create a web application with a vulnerable SQL injection point. The assignment provides guidance on setting up a simple database schema and queries. Students will be instructed to develop a tool (e.g., Python script) that exploits the SQL injection vulnerability to retrieve data from the database. They will be encouraged to document the steps involved in the exploitation, including the injection payloads used.
+
+Instructions:
+
+SQL Injection Exploitation Development:
+
+Web Application Setup: Instruct students to set up a simple web application with a database back end. The web application should include a vulnerable SQL injection point. Provide guidance on setting up a basic database schema and SQL queries that the application uses.
+
+SQL Injection Tool Development: Challenge students to develop a SQL injection demonstration tool using a programming language of their choice (e.g., Python). The tool should offer the following features:
+
+User Interface (if applicable): Create a user-friendly interface that allows users to input the URL of the vulnerable web application, the injection payload, and other necessary parameters.
+
+SQL Injection Exploitation: Implement functionality to exploit the SQL injection vulnerability in the target web application. The tool should craft and send malicious SQL injection payloads to extract data from the database.
+
+Data Extraction: Retrieve and display the data extracted from the database as a result of the successful SQL injection.
+
+Documentation: Prepare comprehensive documentation for the SQL injection exploitation tool, including:
+
+An overview of the tool's design and architecture.
+Instructions on how to install, run, and use the tool effectively.
+Explanations of SQL injection concepts and how the tool exploits the vulnerability.
+Exploitation Steps: Document the step-by-step process involved in exploiting the SQL injection vulnerability, including the specific injection payloads used and the data retrieved from the database.
+
+Security Considerations: Discuss the ethical and responsible use of the tool, emphasizing the need for proper authorization and consent when testing against real web applications. Explain the potential risks associated with SQL injection vulnerabilities.
+
+Testing and Validation: Thoroughly test your SQL injection exploitation tool to ensure that it functions as expected and successfully extracts data from the target database. Test it against the web application set up in step 1.
+
+Submission: Submit your SQL injection exploitation tool code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the SQL injection exploitation tool's functionality, including the user interface (if applicable), exploitation process, and data extraction.
+Documentation: The quality and clarity of your documentation, including explanations of your design, usage instructions, and exploitation steps.
+Ethical Considerations: The consideration of ethical and responsible use of the tool and the awareness of potential risks associated with SQL injection vulnerabilities.

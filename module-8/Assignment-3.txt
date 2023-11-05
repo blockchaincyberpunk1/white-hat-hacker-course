@@ -1,0 +1,49 @@
+Digital Forensics Simulation
+
+Objective: The objective of this assignment is to simulate a digital forensics investigation. Students will be provided with a scenario in which a digital device (e.g., a computer, smartphone) is compromised. They will receive a disk image or device snapshot and be tasked with conducting a digital forensics investigation to identify the cause of the compromise and gather evidence for potential legal action. Additionally, students will be required to document their investigation process and findings in a report.
+
+Instructions:
+
+Digital Forensics Investigation Simulation:
+
+Concept Introduction: Introduce the concept of digital forensics and its role in investigating cybersecurity incidents. Explain that students will simulate a digital forensics investigation in a controlled scenario.
+
+Compromised Device Scenario: Present students with a detailed scenario in which a digital device (e.g., a computer, smartphone) has been compromised. Provide information about the nature of the compromise, including potential indicators of compromise (IoCs).
+
+Disk Image or Snapshot: Provide students with a disk image or snapshot of the compromised device. Ensure that this image contains relevant data, file systems, and artifacts related to the compromise.
+
+Investigation Task: Instruct students to conduct a digital forensics investigation of the provided disk image or snapshot. Their task is to:
+
+Evidence Identification: Identify and document potential evidence related to the compromise. This may include files, logs, registry entries, network connections, and any other relevant artifacts.
+
+Timeline Analysis: Create a timeline of events leading up to and following the compromise. Document significant timestamps and changes in the system.
+
+Malware Analysis: If malware is suspected, analyze any identified malware samples to understand their behavior and impact.
+
+Root Cause Analysis: Determine the root cause of the compromise. Identify how the attacker gained access and what actions were taken.
+
+Legal Considerations: Discuss any legal considerations that should be taken into account during the investigation, including the preservation of evidence for potential legal action.
+
+Written Report: Require students to create a comprehensive written report that includes the following:
+
+Introduction: Provide an overview of the assignment, including the scenario, objectives, and scope of the investigation.
+
+Evidence Documentation: Document the evidence identified during the investigation, including its significance and relevance to the case.
+
+Timeline Analysis: Present the timeline of events, including key timestamps and their implications.
+
+Malware Analysis: If malware is involved, describe the analysis process and findings, including malware behavior and impact.
+
+Root Cause Analysis: Explain the root cause of the compromise and how the attacker gained access.
+
+Conclusion: Summarize the investigation findings, lessons learned, and recommendations for mitigating similar incidents in the future.
+
+Ethical Considerations: Discuss the ethical considerations of digital forensics investigations, including the importance of preserving evidence and maintaining chain of custody.
+
+Submission: Students should submit the written report as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Investigation: The completeness and effectiveness of the digital forensics investigation, including evidence identification, timeline analysis, malware analysis, and root cause determination.
+Report: The quality and completeness of the written report, including evidence documentation, analysis, and ethical considerations.
+Ethical Considerations: The understanding and application of ethical considerations in digital forensics investigations.

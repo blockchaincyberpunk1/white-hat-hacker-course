@@ -1,0 +1,41 @@
+Network Packet Analysis
+
+Objective: The objective of this assignment is to teach students how to analyze network traffic for incident detection. Students will be provided with packet capture files (e.g., PCAP files) containing network traffic data. They will be instructed to use a network analysis tool (e.g., Wireshark) to analyze the packets and identify any suspicious activities or incidents. Additionally, students will be required to write a report detailing their findings, including any signs of potential security breaches.
+
+Instructions:
+
+Network Packet Analysis Exercise:
+
+Concept Introduction: Introduce the concept of network packet analysis and its importance in cybersecurity. Explain that students will be analyzing network traffic data to detect potential security incidents.
+
+Provided Packet Capture Files: Provide students with one or more packet capture files (PCAP files) containing network traffic data. Ensure that these files include a mix of legitimate and potentially suspicious traffic.
+
+Packet Analysis Task: Instruct students to use a network analysis tool such as Wireshark to analyze the provided PCAP files. Their task is to:
+
+Traffic Overview: Provide an overview of the network traffic, including the types of protocols and communication observed.
+
+Suspicious Activity Identification: Identify any suspicious activities or anomalies within the network traffic. This could include unusual patterns, unauthorized access attempts, or signs of potential security breaches.
+
+Incident Detection: If any signs of potential security incidents are detected, instruct students to further investigate and document the details of these incidents.
+
+Written Report: Require students to create a written report that includes the following:
+
+Introduction: Provide an overview of the assignment, including the purpose of network packet analysis and details of the provided PCAP files.
+
+Traffic Analysis: Describe the general characteristics of the network traffic observed in the PCAP files, including protocols used and communication patterns.
+
+Suspicious Activity Findings: Document any suspicious activities or anomalies identified during the analysis. Include relevant details, timestamps, and potential explanations.
+
+Incident Detection: If any potential security incidents are detected, describe these incidents in detail. Include information on how the incidents were identified and their potential impact.
+
+Conclusion: Summarize the findings, lessons learned, and the importance of network packet analysis in incident detection.
+
+Ethical Considerations: Discuss the ethical considerations of network packet analysis and the importance of handling potentially sensitive information responsibly and in compliance with privacy and legal requirements.
+
+Submission: Students should submit the written report as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Packet Analysis: The effectiveness and completeness of the network packet analysis, including identification of suspicious activities and potential security incidents.
+Report: The quality and completeness of the written report, including traffic analysis, suspicious activity findings, and incident detection.
+Ethical Considerations: The understanding and application of ethical considerations in network packet analysis.

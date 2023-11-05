@@ -1,0 +1,36 @@
+Cross-Site Scripting (XSS) Vulnerability Scanner
+
+Objective: The objective of this assignment is to develop a tool for identifying Cross-Site Scripting (XSS) vulnerabilities in web applications. Students will be challenged to create a web-based tool that scans a provided URL for potential XSS vulnerabilities. The tool should analyze the HTML and JavaScript code to detect potential injection points and alert the user to any found vulnerabilities. Students will be required to document how the tool identifies and reports XSS vulnerabilities, including sample scan results.
+
+Instructions:
+
+XSS Vulnerability Scanner Development:
+
+XSS Vulnerability Scanner Application: Develop a web-based XSS vulnerability scanner tool using a programming language and web framework of your choice (e.g., Python with Flask, JavaScript with Node.js). The tool should offer the following features:
+
+User Interface: Create a user-friendly web interface that allows users to input a URL for scanning.
+
+URL Scanning: Implement functionality to scan the provided URL for potential XSS vulnerabilities.
+
+Vulnerability Detection: Develop algorithms or techniques to analyze the HTML and JavaScript code of the web page retrieved from the URL and detect potential injection points where XSS vulnerabilities may exist.
+
+Alert Mechanism: Alert the user if potential XSS vulnerabilities are found during the scan. Include details about the location and nature of the vulnerabilities.
+
+Documentation: Prepare comprehensive documentation for your XSS vulnerability scanner tool, including:
+
+An overview of the application's design and architecture.
+Instructions on how to access and use the web interface for scanning URLs.
+Explanations of how the tool identifies potential XSS vulnerabilities.
+Sample Scan Results: Include sample scan results that showcase how the tool successfully identifies and reports XSS vulnerabilities. Provide examples of vulnerable code snippets and their locations within the scanned web page.
+
+Security Considerations: Discuss the importance of responsible and ethical use of the scanner. Emphasize the need for proper authorization when scanning web applications and the potential risks associated with XSS vulnerabilities.
+
+Testing and Validation: Thoroughly test your XSS vulnerability scanner to ensure that it functions as expected and accurately identifies potential XSS vulnerabilities. Test it against different web pages with varying levels of complexity.
+
+Submission: Submit your XSS vulnerability scanner code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the XSS vulnerability scanner's functionality, including the web interface, URL scanning, vulnerability detection, and alert mechanism.
+Documentation: The quality and clarity of your documentation, including explanations of your design, usage instructions, and how the tool identifies XSS vulnerabilities.
+Sample Scan Results: The effectiveness of the provided sample scan results in demonstrating the tool's ability to identify and report XSS vulnerabilities.

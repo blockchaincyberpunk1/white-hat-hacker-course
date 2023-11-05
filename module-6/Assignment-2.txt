@@ -1,0 +1,35 @@
+Intrusion Detection System (IDS) Simulation
+
+Objective: The objective of this assignment is to simulate an intrusion detection system (IDS) for network monitoring. Students will be challenged to create a network monitoring tool that detects suspicious activities in a network packet stream. They will be instructed to implement basic IDS rules and alert mechanisms for detecting common network attacks, such as port scanning. Additionally, students will analyze network traffic data to identify and report potential threats.
+
+Instructions:
+
+Intrusion Detection System (IDS) Simulation:
+
+Concept Introduction: Introduce the concept of an Intrusion Detection System (IDS) and its role in network security. Explain that students will be creating a simplified IDS simulation.
+
+Network Traffic Data: Provide students with a dataset of network traffic data in the form of packet captures (e.g., PCAP files) or a simulated network traffic generator. Ensure that the dataset includes legitimate traffic as well as traffic containing common network attacks like port scanning.
+
+IDS Rule Implementation: Instruct students to implement IDS rules that define suspicious network traffic patterns. For example, they can create rules to detect port scanning, unusual traffic volume, or known attack signatures.
+
+Alert Mechanisms: Challenge students to design alert mechanisms that trigger when suspicious traffic is detected based on the implemented IDS rules. Alerts should include information about the detected threat, such as source IP, destination IP, and the type of attack.
+
+Network Traffic Analysis: Task students with analyzing the provided network traffic data using their IDS simulation. They should run the data through their IDS and observe how it detects and reports potential threats.
+
+Reporting: Instruct students to create a report summarizing the results of their IDS simulation. The report should include the following:
+
+An overview of the IDS rules implemented and the rationale behind each rule.
+Details of any alerts triggered during the analysis, including the nature of the detected threats.
+A summary of the network traffic data analyzed, highlighting suspicious patterns.
+Observations and conclusions based on the IDS simulation results.
+Testing and Validation: Encourage students to thoroughly test their IDS simulation using various network traffic scenarios, including legitimate traffic and simulated attacks.
+
+Security Considerations: Discuss the importance of IDS systems in real-world network security and how they contribute to threat detection and prevention.
+
+Submission: Students should submit their IDS simulation code, the report summarizing the results, and any additional findings as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The correctness and completeness of the IDS simulation, including the implementation of IDS rules and alert mechanisms.
+Report: The quality and clarity of the report, including explanations of IDS rules, observed alerts, and network traffic analysis.
+Testing: The effectiveness of testing and validation to ensure the IDS simulation functions as expected.

@@ -1,0 +1,59 @@
+Open-Source Contribution
+
+Objective: The objective of this assignment is to encourage students to actively contribute to an open-source security project. Students will be challenged to identify an open-source security project on platforms like GitHub and make meaningful contributions to the project, such as fixing issues, improving documentation, or adding new features. Additionally, students will be required to provide evidence of their contributions, including code submissions and communication with project maintainers.
+
+Instructions:
+
+Open-Source Contribution:
+
+Concept Introduction: Introduce the concept of open-source software and its role in the cybersecurity community. Explain that students will actively contribute to an open-source security project.
+
+Project Selection: Instruct students to explore open-source repositories on platforms like GitHub and identify a security-related project that interests them. Encourage them to choose a project that aligns with their skills and goals.
+
+Contribution Plan: Challenge students to create a contribution plan that outlines their intended contributions to the selected open-source project. Their plan should include:
+
+Issue Identification: Identify specific issues or tasks within the project that they plan to address. These could be bug fixes, improvements, or new features.
+
+Communication: Explain how they will initiate communication with the project maintainers to discuss their intended contributions. Encourage them to introduce themselves and express their interest in the project.
+
+Coding Guidelines: Ensure that students understand the project's coding guidelines and contribution process, including how to fork the repository, create branches, and submit pull requests.
+
+Contributions: Instruct students to actively work on their planned contributions to the open-source project. Their contributions may include:
+
+Code Contributions: Writing and submitting code changes or enhancements.
+
+Documentation Improvements: Enhancing project documentation, README files, or user guides.
+
+Issue Resolution: Addressing open issues or bug reports by providing fixes or solutions.
+
+Feature Development: Adding new features or functionalities to the project, if relevant.
+
+Documentation and Evidence: Require students to document their contributions thoroughly. This documentation should include:
+
+Code Submissions: Screenshots or links to their code contributions (e.g., pull requests).
+
+Communication: Records of their interactions with project maintainers, including emails or forum discussions.
+
+Commit History: Evidence of their code commits and contributions in the project's version control system (e.g., Git).
+
+Summary Report: Instruct students to create a summary report of their open-source contributions. The report should include:
+
+Introduction: Provide an overview of the selected open-source project and its significance in the cybersecurity community.
+
+Contribution Details: Describe the specific contributions made, including code changes, documentation improvements, or issue resolutions.
+
+Communication: Discuss their interactions with project maintainers and how they collaborated with the project's community.
+
+Learning and Impact: Reflect on what they learned during the process and the impact of their contributions on the project.
+
+Ethical Considerations: Discuss the ethical considerations of contributing to open-source projects, including the importance of respecting project licenses and collaborating with the community in a positive and constructive manner.
+
+Submission: Students should submit their summary report along with evidence of their contributions (e.g., code links, communication records) as a document file (e.g., PDF) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Contribution Plan: The quality of the contribution plan, including issue identification and communication strategy.
+Contributions: The extent and quality of students' contributions to the open-source security project.
+Documentation and Evidence: The completeness and organization of documentation and evidence supporting their contributions.
+Summary Report: The quality of the summary report, including descriptions of contributions, communication, learning, and impact.
+Ethical Considerations: The understanding and application of ethical considerations related to open-source contribution.

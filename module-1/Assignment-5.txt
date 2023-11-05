@@ -1,0 +1,33 @@
+Ethical Hacking Case Study
+
+Objective: The objective of this assignment is to apply ethical hacking concepts to a real-world scenario. Students will be provided with a case study involving a fictitious organization facing network security challenges. They will act as ethical hackers and propose a plan to identify and address vulnerabilities in the organization's network. This assignment will require students to outline the steps they would take, including reconnaissance, scanning, exploitation, and remediation. The evaluation will be based on ethical hacking best practices.
+
+Instructions:
+
+Scenario:
+You are hired as an ethical hacker by "CyberSecure Inc.," a fictitious organization concerned about the security of its network infrastructure. CyberSecure Inc. has experienced recent security incidents, and the management is committed to improving its cybersecurity posture. Your task is to propose a plan to identify and address vulnerabilities in their network.
+
+Assignment Tasks:
+
+Understanding the Environment: Review the provided information about the organization's network, including network diagrams, IP ranges, and existing security measures.
+
+Reconnaissance: Describe the reconnaissance phase of your plan. Explain how you would gather information about the organization's network, systems, and potential weaknesses. Include methods such as passive and active information gathering.
+
+Scanning: Outline your approach to network scanning. Specify the tools and techniques you would use to identify open ports, services, and potential vulnerabilities on target systems.
+
+Exploitation: Describe how you would approach the exploitation phase. Discuss the ethical and legal considerations you would take into account. Emphasize responsible disclosure.
+
+Remediation: Explain the steps you would recommend to the organization to remediate the vulnerabilities you have identified. Provide prioritization based on severity and potential impact.
+
+Ethical Considerations: Discuss the ethical considerations that guide your actions as an ethical hacker. Explain how you would ensure that your activities are legal and ethical.
+
+Report: Prepare a concise report that summarizes your proposed plan. Use headings and subheadings to structure your report logically. Include any diagrams or charts that help illustrate your plan.
+
+Submission: Submit your report as a PDF document by [Due Date] at [Due Time]. Ensure that your submission is well-organized and free of grammatical errors.
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Understanding of the Environment: The depth of your understanding of the organization's network and security challenges.
+Comprehensive Plan: The completeness and effectiveness of your proposed plan, including reconnaissance, scanning, exploitation, and remediation.
+Ethical Considerations: The thoughtful consideration of ethical and legal aspects in your plan.
+Report Quality: The clarity, organization, and professionalism of your report.

@@ -1,0 +1,38 @@
+Secure Password Storage
+
+Objective: The objective of this assignment is to develop a secure password storage and authentication system. Students will be challenged to build a web-based user authentication system where passwords are securely stored using cryptographic hashing and salting. They will be instructed to implement features like user registration, password hashing, and secure authentication. Additionally, students will write a report explaining the security measures taken to protect user passwords.
+
+Instructions:
+
+Secure Password Storage and Authentication System Development:
+
+Application Concept: Task students with creating a web-based user authentication system. The system should include user registration, login, and password management functionality.
+
+Password Hashing and Salting: Instruct students to implement password hashing and salting. Passwords should be securely hashed using a strong cryptographic hash function (e.g., bcrypt, Argon2) with a unique salt for each user.
+
+User Registration: Challenge students to create a user registration process where users can create accounts by providing a username and password. The password should be securely hashed and stored in the database.
+
+Secure Authentication: Implement a secure authentication process where users can log in by providing their username and password. Verify the provided password against the stored hash and salt.
+
+Password Management: Allow users to change their passwords and reset forgotten passwords through secure mechanisms. Explain how these processes are implemented securely in your documentation.
+
+Documentation: Instruct students to prepare comprehensive documentation for their secure password storage and authentication system, including:
+
+An overview of the application's design and architecture.
+Explanations of the password hashing and salting mechanisms used.
+Instructions on how to register, log in, and manage passwords.
+Details about how the system handles forgotten passwords.
+Security Report: Challenge students to write a security report that explains the security measures taken to protect user passwords in their system. The report should cover topics such as:
+
+Password hashing and salting techniques used.
+Measures to protect against common attacks (e.g., brute force, dictionary attacks).
+Any additional security features or best practices implemented.
+Testing: Instruct students to thoroughly test their password storage and authentication system to ensure that it functions as expected and securely protects user passwords.
+
+Submission: Submit the complete web-based authentication system code, documentation, and the security report as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The correctness and completeness of the password storage and authentication system, including user registration, login, password management, and security features.
+Documentation: The quality and clarity of your documentation, including explanations of design, usage instructions, and password security measures.
+Security Report: The depth and accuracy of the security report, which should demonstrate an understanding of password security best practices.

@@ -1,0 +1,39 @@
+Password Manager
+
+Objective: The objective of this assignment is to apply basic security concepts related to password management by developing a password manager application. Students will create a password manager that securely stores and retrieves passwords for various online services. The application should include features for generating strong passwords, encrypting stored passwords, and providing a user-friendly interface. Additionally, students must implement user authentication to access the password manager and document the encryption methods used to protect stored passwords.
+
+Instructions:
+
+Password Manager Development:
+
+Password Manager Application: Develop a password manager application using a programming language of your choice (e.g., Python, Java). The password manager should offer the following features:
+
+User Authentication: Implement user authentication to restrict access to the password manager. Users must log in with a username and password.
+
+Password Storage: Allow users to securely store passwords for various online services (e.g., websites, email accounts) in the application. Passwords should be encrypted before storage.
+
+Password Retrieval: Provide functionality for users to retrieve stored passwords when needed.
+
+Password Generation: Include a feature to generate strong, randomized passwords for online services.
+
+Encryption: Clearly document and implement encryption methods to ensure that stored passwords are protected. Explain how encryption keys are managed.
+
+User Interface: Create a user-friendly interface for your password manager application. It should be easy for users to add, retrieve, and manage passwords.
+
+Documentation: Prepare comprehensive documentation for your password manager application, including:
+
+An overview of the application's design and architecture.
+Instructions on how to run and use your application, including user authentication.
+Explanations of the encryption methods used to protect stored passwords.
+Security Considerations: Discuss the security measures you have taken to protect user data and ensure the confidentiality of stored passwords in your documentation.
+
+Testing and Validation: Thoroughly test your password manager application to ensure that it functions as expected, securely manages passwords, and properly implements user authentication.
+
+Submission: Submit your password manager application code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the password manager's functionality, including user authentication, password storage, retrieval, and generation.
+Security: The effectiveness of security measures implemented to protect stored passwords and user data.
+Documentation: The quality and clarity of your documentation, including explanations of your design, encryption methods, and security considerations.
+User Interface: The usability and user-friendliness of the application's interface.

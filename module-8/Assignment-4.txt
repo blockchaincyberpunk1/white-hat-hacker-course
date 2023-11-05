@@ -1,0 +1,37 @@
+Incident Handling Tool Development
+
+Objective: The objective of this assignment is to challenge students to develop a custom incident handling tool or script. Students will be tasked with creating a Python or shell script that automates incident handling tasks. They should focus on specific actions, such as log analysis, alerting, or data backup. Additionally, students will be required to provide documentation on how to use their tool effectively in an incident response scenario.
+
+Instructions:
+
+Incident Handling Tool Development:
+
+Concept Introduction: Introduce the concept of incident handling tools and their importance in responding to security incidents. Explain that students will be developing a custom incident handling tool or script.
+
+Incident Handling Task Selection: Instruct students to choose specific incident handling tasks that their tool will automate. These tasks may include:
+
+Log Analysis: Parsing and analyzing system logs to identify potential security incidents.
+Alerting: Generating alerts when specific security events or conditions are detected.
+Data Backup: Automating the backup of critical data in response to an incident.
+Evidence Collection: Collecting and preserving digital evidence for forensic analysis.
+Tool Development: Challenge students to develop a Python or shell script that automates the chosen incident handling tasks. The tool should be designed to be efficient and effective in a real incident response scenario.
+
+Documentation: Require students to create comprehensive documentation for their incident handling tool, including:
+
+Tool Description: Explain the purpose and functionality of the tool, including the specific incident handling tasks it automates.
+
+Usage Instructions: Provide clear instructions on how to use the tool, including any required command-line parameters or configurations.
+
+Incident Response Scenario: Describe a hypothetical incident response scenario in which the tool would be used. Explain how the tool should be applied to address the incident.
+
+Example Usage: Include example usage scenarios and commands to demonstrate the tool's functionality.
+
+Ethical Considerations: Discuss the ethical considerations of incident handling tools and their responsible use in controlled environments. Emphasize the importance of maintaining the confidentiality and integrity of sensitive information during incident response activities.
+
+Submission: Students should submit their incident handling tool script, documentation, and any supporting files as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Tool Development: The completeness and functionality of the incident handling tool, including its effectiveness in automating chosen incident handling tasks.
+Documentation: The quality and completeness of the tool's documentation, including usage instructions and incident response scenario details.
+Ethical Considerations: The understanding and application of ethical considerations in developing and using incident handling tools.

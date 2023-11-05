@@ -1,0 +1,38 @@
+Secure Wi-Fi Access Point Setup
+
+Objective: The objective of this assignment is to set up a secure Wi-Fi access point configuration tool. Students will be tasked with developing a tool for configuring secure Wi-Fi access points. They will be instructed to implement features such as WPA3 encryption, strong passphrase generation, and guest network options. Additionally, students will be encouraged to provide clear instructions on securing Wi-Fi networks for end-users.
+
+Instructions:
+
+Secure Wi-Fi Access Point Configuration Tool Development:
+
+Tool Concept: Introduce the concept of a secure Wi-Fi access point configuration tool and its role in setting up and securing Wi-Fi networks. Explain that students will be creating a tool that simplifies the process of configuring secure access points.
+
+Security Features: Emphasize the importance of security in Wi-Fi networks and challenge students to implement the following security features in the tool:
+
+WPA3 Encryption: Instruct students to configure access points with WPA3 encryption, which offers strong security for wireless connections.
+
+Passphrase Generation: Develop a passphrase generation module that creates strong, random passphrases for Wi-Fi networks. Passphrases should meet recommended security standards.
+
+Guest Network: Implement an option to set up a guest network with its own SSID and isolated from the primary network for added security.
+
+User-Friendly Interface: Encourage students to create a user-friendly command-line or graphical user interface (GUI) that guides users through the access point configuration process. Ensure that users can specify network names, passphrases, and other settings easily.
+
+Clear Instructions: Task students with providing clear instructions on securing Wi-Fi networks for end-users. This should include guidance on changing default credentials, enabling encryption, and managing guest networks.
+
+Documentation: Instruct students to prepare comprehensive documentation for their Wi-Fi access point configuration tool, including:
+
+Tool Overview: Provide an overview of the tool's purpose and capabilities.
+Security Features: Explain the implemented security features, including WPA3 encryption, passphrase generation, and guest network options.
+Usage Instructions: Include step-by-step instructions on how to use the tool to configure secure Wi-Fi access points.
+Testing and Validation: Encourage students to thoroughly test their Wi-Fi access point configuration tool by setting up secure access points and guest networks using various configurations.
+
+Security Considerations: Discuss the significance of secure Wi-Fi network configuration and the risks associated with weak encryption and insecure passphrases.
+
+Submission: Students should submit the complete code for the Wi-Fi access point configuration tool, the documentation, and a report summarizing the testing results as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The correctness and completeness of the Wi-Fi access point configuration tool, including security features, user interface, and instructions.
+Documentation: The quality and clarity of your documentation, including explanations of tool features, security settings, and usage instructions.
+Testing: The effectiveness of testing and validation to ensure the tool functions as expected.

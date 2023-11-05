@@ -1,0 +1,29 @@
+Vulnerability Scanning Script
+
+Objective: The objective of this assignment is to familiarize students with vulnerability scanning tools and scripting. Students will be introduced to a vulnerability scanning tool (e.g., Nessus, OpenVAS) and tasked with writing a Python script that automates the vulnerability scanning process for a local network or a specific target. They will provide explanations for the script's functionality and how it identifies vulnerabilities, and they will run the script to report the vulnerabilities discovered. This assignment aims to develop students' skills in vulnerability assessment and scripting.
+
+Instructions:
+
+Vulnerability Scanning Tool: Choose a vulnerability scanning tool (e.g., Nessus, OpenVAS) and install it on your computer. Ensure that you have access to the necessary resources to conduct the scanning (e.g., a local network or a target system with proper authorization).
+
+Script Development: Write a Python script that automates the vulnerability scanning process using the chosen tool. Your script should have the following capabilities:
+
+Specify the target(s) to be scanned (e.g., IP addresses or domain names).
+Initiate the vulnerability scanning process.
+Retrieve and display the results, including identified vulnerabilities, their severity levels, and descriptions.
+Explanations: In the comments or documentation within your script, provide clear explanations for how your script works. Explain the key functions and libraries used, as well as how vulnerabilities are identified and categorized. Describe any additional features or configurations in your script.
+
+Vulnerability Scanning: Run your Python script to perform a vulnerability scan on your chosen target(s). Ensure that you have the necessary permissions and authorization to conduct the scan.
+
+Report: Document and report the vulnerabilities discovered during the scanning process. Include details such as the vulnerability name, severity level, and a brief description of each vulnerability. Organize this information neatly.
+
+Reflection: Write a short reflection on the experience of using a vulnerability scanning tool and creating the Python script. Discuss any challenges you faced, what you learned, and how this knowledge can be applied in the field of white hat hacking.
+
+Submission: Submit your Python script, vulnerability report, and reflection as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time]. Make sure that your submission includes all necessary files and documentation.
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality of the Script: The effectiveness of your Python script in automating the vulnerability scanning process.
+Clarity of Explanations: The clarity and completeness of explanations provided within the script and in the reflection.
+Vulnerability Report: The accuracy and organization of the vulnerability report.
+Reflection: The reflection on your experience and the practical application of vulnerability scanning in white hat hacking.

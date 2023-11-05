@@ -1,0 +1,36 @@
+Buffer Overflow Exploitation
+
+Objective: The objective of this assignment is to demonstrate the understanding of buffer overflow vulnerabilities and exploitation. Students will be tasked with writing a C or Python program containing a vulnerable buffer overflow. They will be instructed to exploit the buffer overflow vulnerability to gain control of the program's execution flow. Additionally, students will be required to create a report documenting the steps taken to exploit the vulnerability.
+
+Instructions:
+
+Buffer Overflow Exploitation Exercise:
+
+Concept Introduction: Introduce the concept of buffer overflow vulnerabilities in software and their potential security implications. Explain that students will be creating a vulnerable program and exploiting it to gain control.
+
+Vulnerable Program Development: Task students with writing a C or Python program that contains a buffer overflow vulnerability. The program should include a buffer with insufficient bounds checking, allowing for a buffer overflow.
+
+Exploitation Challenge: Challenge students to exploit the buffer overflow vulnerability in the program to gain control of the program's execution flow. The specific goal is to execute arbitrary code injected through the buffer overflow.
+
+Control Flow Modification: Instruct students to demonstrate their ability to modify the program's control flow using the buffer overflow. This may involve overwriting a return address or injecting shellcode to execute.
+
+Report Creation: Require students to create a comprehensive report documenting the steps they took to exploit the buffer overflow vulnerability. The report should include the following:
+
+Introduction: Provide an overview of the assignment and the target program.
+Vulnerability Description: Describe the buffer overflow vulnerability within the program and how it can be triggered.
+Exploitation Steps: Explain the step-by-step process of exploiting the vulnerability, including the injection of malicious code.
+Control Flow Modification: Describe how the program's control flow was modified to execute arbitrary code.
+Demonstration: Provide evidence of a successful buffer overflow exploitation, such as a screenshot or log of the exploited program's behavior.
+Mitigation: Discuss potential mitigation strategies to prevent buffer overflow vulnerabilities and their exploitation.
+Conclusion: Summarize the findings and lessons learned from the exercise.
+Testing and Validation: Encourage students to test their exploit thoroughly and validate that they have successfully gained control of the program's execution.
+
+Ethical Considerations: Discuss the ethical implications of buffer overflow exploitation and the importance of responsible disclosure.
+
+Submission: Students should submit the vulnerable program code, the report documenting the exploitation steps, and any supporting files as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Exploitation: The effectiveness of the buffer overflow exploitation, including control flow modification.
+Report: The quality and completeness of the report documenting the steps taken to exploit the vulnerability.
+Testing: The thoroughness of testing and validation to demonstrate a successful exploit.

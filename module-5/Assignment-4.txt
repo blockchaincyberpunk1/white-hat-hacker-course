@@ -1,0 +1,37 @@
+Implementing Secure APIs
+
+Objective: The objective of this assignment is to build a secure API following best practices. Students will be tasked with creating a RESTful API that handles sensitive user data. They will be instructed to implement authentication, access control, and input validation to prevent common API vulnerabilities. Students will be encouraged to document the security measures implemented in their API and demonstrate secure API usage.
+
+Instructions:
+
+Secure API Development:
+
+API Concept: Task students with defining a concept for a RESTful API that handles sensitive user data. The API should have endpoints for data retrieval, modification, and user management.
+
+Authentication: Instruct students to implement secure authentication mechanisms for the API. Users should be required to authenticate themselves using strong authentication methods (e.g., JWT tokens, OAuth) before accessing sensitive data or performing actions.
+
+Access Control: Challenge students to implement access control measures to ensure that only authorized users can access specific API endpoints or perform certain actions. Define roles and permissions for users and enforce them.
+
+Input Validation: Emphasize the importance of input validation. Instruct students to validate and sanitize all user inputs to prevent common API vulnerabilities such as SQL injection, XSS, and input-based attacks.
+
+Error Handling: Encourage students to implement proper error handling mechanisms in the API. Errors should not reveal sensitive information but should provide meaningful feedback to clients.
+
+Secure Data Transmission: Ensure that data transmitted between the client and the API is encrypted using HTTPS to protect data confidentiality and integrity.
+
+Documentation: Challenge students to prepare comprehensive documentation for their secure API, including:
+
+An overview of the API's design and purpose.
+Detailed explanations of authentication and access control mechanisms used.
+Instructions on how to authenticate with the API and access different endpoints.
+Information on how input validation is implemented.
+Security Measures: Instruct students to document the specific security measures they have implemented within the API to protect against common API vulnerabilities.
+
+Testing: Encourage students to thoroughly test their secure API to ensure that the implemented security features work as intended. They should demonstrate secure API usage and simulate potential attack scenarios.
+
+Submission: Students should submit the complete API code, documentation, and any testing results as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The correctness and completeness of the secure API, including authentication, access control, input validation, and error handling.
+Documentation: The quality and clarity of your documentation, including explanations of design, security measures, usage instructions, and testing results.
+Security Measures: The effectiveness of the security measures implemented to protect against common API vulnerabilities.

@@ -1,0 +1,102 @@
+ Networking Basics Quiz
+
+Objective: The objective of this assignment is to assess students' understanding of networking fundamentals, including OSI model layers, TCP/IP protocols, and IP addressing. By completing this quiz, students will demonstrate their knowledge of core networking concepts.
+
+Instructions:
+
+This quiz consists of 10 multiple-choice questions related to networking fundamentals. Please read each question carefully and choose the most appropriate answer.
+
+For each question, provide a brief explanation for your choice. Explain why you selected the answer you did. This will help us understand your thought process and reasoning.
+
+Submit your answers and explanations as a single document or in the format specified by your instructor.
+
+
+Quiz Questions:
+
+Question 1: What is the primary purpose of the OSI model?
+
+a) To define how routers forward packets.
+b) To standardize network device configurations.
+c) To provide a framework for understanding and describing networking functions.
+d) To encrypt data for secure transmission.
+
+Explanation for Question 1:
+
+Question 2: Which OSI model layer is responsible for routing and forwarding packets between different networks?
+
+a) Data Link Layer
+b) Transport Layer
+c) Network Layer
+d) Physical Layer
+
+Explanation for Question 2:
+
+Question 3: Which TCP/IP protocol is used for email communication?
+
+a) HTTP
+b) SMTP
+c) FTP
+d) SNMP
+
+Explanation for Question 3:
+
+Question 4: What is the purpose of a subnet mask in IP addressing?
+
+a) To specify the network portion of an IP address.
+b) To determine the host portion of an IP address.
+c) To encrypt IP traffic for security.
+d) To define the default gateway for a network.
+
+Explanation for Question 4:
+
+Question 5: Which of the following IP address classes is reserved for multicast groups?
+
+a) Class A
+b) Class B
+c) Class C
+d) Class D
+
+Explanation for Question 5:
+
+Question 6: What is the primary role of DNS (Domain Name System) in networking?
+
+a) To encrypt data for secure transmission.
+b) To map human-readable domain names to IP addresses.
+c) To establish a secure VPN connection.
+d) To manage network routing tables.
+
+Explanation for Question 6:
+
+Question 7: Which TCP/IP protocol is used for transferring files between a client and a server?
+
+a) FTP
+b) SNMP
+c) SMTP
+d) HTTP
+
+Explanation for Question 7:
+
+Question 8: What is the default subnet mask for a Class C IP address?
+
+a) 255.0.0.0
+b) 255.255.0.0
+c) 255.255.255.0
+d) 255.255.255.255
+
+Explanation for Question 8:
+
+Question 9: In the OSI model, which layer is responsible for ensuring data integrity and error correction?
+
+a) Transport Layer
+b) Session Layer
+c) Presentation Layer
+d) Data Link Layer
+
+Explanation for Question 9:
+
+Question 10: Which TCP/IP protocol is used for viewing web pages in a web browser?
+
+a) HTTP
+b) FTP
+c) SMTP
+d) DNS

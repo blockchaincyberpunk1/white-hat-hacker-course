@@ -1,0 +1,35 @@
+VPN Configuration Tool
+
+Objective: The objective of this assignment is to build a command-line tool for configuring VPN connections. Students will be tasked with developing a command-line tool that allows users to configure virtual private network (VPN) connections. They will be instructed to support various VPN protocols (e.g., OpenVPN, IPsec) and ensure secure key exchange. Additionally, students will be encouraged to provide secure default settings and options for secure tunneling.
+
+Instructions:
+
+VPN Configuration Tool Development:
+
+Tool Concept: Introduce the concept of a VPN configuration tool and its role in setting up secure VPN connections. Explain that students will be creating a command-line tool for this purpose.
+
+Supported VPN Protocols: Instruct students to design the tool to support multiple VPN protocols, such as OpenVPN and IPsec. The tool should be capable of configuring VPN connections based on the chosen protocol.
+
+Secure Key Exchange: Emphasize the importance of secure key exchange for VPN connections. Challenge students to implement secure mechanisms for generating, exchanging, and storing encryption keys and certificates.
+
+Command-Line Interface: Task students with developing a user-friendly command-line interface (CLI) that allows users to specify VPN configuration settings, such as server addresses, authentication methods, and encryption options.
+
+Secure Defaults: Encourage students to provide secure default settings for the VPN configurations. These defaults should prioritize security and adhere to best practices. Users can modify these settings as needed.
+
+Documentation: Instruct students to prepare comprehensive documentation for their VPN configuration tool, including:
+
+Tool Overview: Provide an overview of the tool's purpose and capabilities.
+Supported VPN Protocols: Explain the supported VPN protocols and their use cases.
+Usage Instructions: Include instructions on how to use the CLI to configure VPN connections.
+Security Features: Describe the security features implemented in the tool, such as key exchange and encryption.
+Testing and Validation: Encourage students to thoroughly test their VPN configuration tool by setting up VPN connections using various protocols and configurations. Ensure that they validate the security aspects of key exchange and data encryption.
+
+Security Considerations: Discuss the importance of VPNs in securing network communications and the role of secure key exchange in VPN security.
+
+Submission: Students should submit their VPN configuration tool code, the documentation, and a brief report on their testing results as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The correctness and completeness of the VPN configuration tool, including support for multiple protocols, secure key exchange, and user-friendly CLI.
+Documentation: The quality and clarity of your documentation, including explanations of tool features, supported protocols, usage instructions, and security measures.
+Testing: The effectiveness of testing and validation to ensure the VPN configuration tool functions securely and as expected.

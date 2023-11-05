@@ -1,0 +1,27 @@
+Network Packet Analyzer
+
+Objective: The objective of this assignment is to familiarize students with network packet analysis tools, particularly Wireshark. Students will capture and analyze network traffic on their local network, identify different types of network packets (e.g., HTTP, DNS, ICMP), and explain their purposes. This assignment aims to develop students' skills in network traffic analysis, a crucial aspect of white hat hacking.
+
+Instructions:
+
+Setup: Download and install Wireshark on your computer (https://www.wireshark.org/download.html). Ensure that you have permission to use this tool on your local network.
+
+Capture Network Traffic: Using Wireshark, capture network traffic on your local network for a duration of at least 30 minutes. During this time, perform various online activities (e.g., browsing, streaming, sending emails) to generate diverse network traffic.
+
+Analysis: Examine the captured network traffic in Wireshark. Identify and classify different types of network packets. Pay specific attention to HTTP, DNS, and ICMP packets, but feel free to explore others as well. For each packet type, note down details such as source and destination IP addresses, source and destination ports, and packet contents.
+
+Explanations: Write explanations for each of the following:
+
+The purpose and function of HTTP packets in the captured traffic.
+The purpose and function of DNS packets in the captured traffic.
+The purpose and function of ICMP packets in the captured traffic.
+Report: Compile your findings and explanations into a detailed report. Include screenshots from Wireshark to illustrate your analysis. Make sure to organize your report logically and provide clear explanations.
+
+Submission: Submit your report as a PDF document by [Due Date] at [Due Time]. Late submissions will not be accepted.
+
+Grading: Your report will be evaluated based on the following criteria:
+
+Accuracy and completeness of packet identification.
+Clarity and depth of explanations regarding the purpose and function of the identified packet types.
+Organization and presentation of the report, including the use of screenshots from Wireshark.
+Adherence to the assignment's instructions and deadlines.

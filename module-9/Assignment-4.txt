@@ -1,0 +1,47 @@
+Vulnerability Research
+
+Objective: The objective of this assignment is to develop students' skills in conducting vulnerability research and responsible disclosure. Students will be assigned a vulnerability research task related to a specific software, system, or technology. They are required to investigate and document the vulnerability, its potential impact, and possible mitigation strategies. Students should share their findings in a written report or presentation, with a focus on responsible disclosure if applicable.
+
+Instructions:
+
+Vulnerability Research Task:
+
+Concept Introduction: Introduce the importance of vulnerability research in cybersecurity and responsible disclosure practices. Explain that students will be assigned a vulnerability research task.
+
+Vulnerability Assignment: Assign each student a specific vulnerability research task. This task may involve investigating a known software vulnerability, system misconfiguration, or technology weakness. Ensure that the assigned tasks are diverse and align with students' skill levels and interests.
+
+Research and Investigation: Instruct students to conduct thorough research and investigation into the assigned vulnerability. They should consider the following aspects:
+
+Vulnerability Description: Describe the vulnerability in detail, including its nature, potential impact, and how it can be exploited.
+
+Affected Systems or Software: Identify the systems, software, or technologies that are vulnerable to this issue.
+
+CVE Identification: Check if the vulnerability has a Common Vulnerabilities and Exposures (CVE) identifier.
+
+Proof of Concept (PoC): If applicable, create a PoC to demonstrate the vulnerability's exploitation. Ensure that the PoC is ethical and doesn't cause harm.
+
+Mitigation Strategies: Research and propose mitigation strategies or solutions to address the vulnerability.
+
+Responsible Disclosure: If the vulnerability is not publicly known, discuss responsible disclosure practices. Instruct students on how to responsibly report the vulnerability to the affected vendor or organization. Emphasize the importance of coordinated disclosure to protect users and systems.
+
+Report or Presentation: Require students to present their findings in either a written report or a presentation. The report/presentation should include:
+
+Vulnerability Details: Detailed information about the vulnerability, including its technical aspects.
+
+Potential Impact: Explain the potential impact of the vulnerability on systems, data, or users.
+
+Mitigation Recommendations: Provide recommendations for mitigating or fixing the vulnerability.
+
+Responsible Disclosure: If applicable, describe the responsible disclosure process followed, including communication with the affected parties.
+
+Ethical Considerations: Discuss the ethical considerations of vulnerability research, including responsible disclosure, avoiding harm, and respecting intellectual property.
+
+Submission: Students should submit their vulnerability research report or presentation by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Vulnerability Investigation: The depth and quality of students' vulnerability research and understanding of the issue.
+Mitigation Strategies: The quality of proposed mitigation strategies or solutions.
+Responsible Disclosure: If applicable, the adherence to responsible disclosure practices.
+Report or Presentation: The clarity and organization of the report or presentation, including vulnerability details, impact, and recommendations.
+Ethical Considerations: The understanding and application of ethical considerations related to vulnerability research and disclosure.

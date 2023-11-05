@@ -1,0 +1,38 @@
+Penetration Test Reporting Tool
+
+Objective: The objective of this assignment is to create a reporting tool for documenting penetration test findings. Students will be challenged to build a reporting tool that assists in creating professional penetration test reports. The tool should allow users to input details about the tested system, vulnerabilities discovered, risk assessments, and recommendations. Students will be encouraged to generate a well-structured report in a common format (e.g., PDF) with sections for executive summaries, technical findings, and remediation steps. They will also be required to document how to use the reporting tool effectively.
+
+Instructions:
+
+Reporting Tool Development:
+
+Penetration Test Reporting Tool Application: Develop a penetration test reporting tool using a programming language and framework of your choice (e.g., Python, Ruby on Rails). The tool should offer the following features:
+
+User Interface: Create an intuitive user interface that allows users to input information related to the penetration test, including client details, tested system information, vulnerabilities discovered, risk assessments, and recommendations.
+
+Report Generation: Implement functionality to generate a well-structured penetration test report in a common format (e.g., PDF). The report should include sections such as:
+
+Executive Summary
+Technical Findings
+Risk Assessment
+Recommendations and Remediation Steps
+Customization: Allow users to customize report templates and add additional sections if needed.
+
+User Documentation: Prepare comprehensive user documentation for your penetration test reporting tool, including:
+
+An overview of the application's design and architecture.
+Instructions on how to install, run, and use your application.
+Guidance on how to input relevant information for generating a penetration test report.
+Security Considerations: Discuss the importance of handling sensitive information responsibly and securely within the reporting tool. Emphasize the ethical use of penetration test findings and the need for proper authorization.
+
+Testing and Validation: Thoroughly test your reporting tool to ensure that it functions as expected and generates professional, well-structured reports. Test it with sample penetration test data.
+
+Effective Usage Guide: Document how to effectively use the reporting tool, including best practices for collecting and inputting information, customizing reports, and ensuring accuracy.
+
+Submission: Submit your penetration test reporting tool code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the penetration test reporting tool's functionality, including user interface, report generation, and customization options.
+Documentation: The quality and clarity of your documentation, including explanations of your design, usage instructions, and security considerations.
+Effective Usage Guide: The comprehensiveness and effectiveness of the guide on how to effectively use the reporting tool.

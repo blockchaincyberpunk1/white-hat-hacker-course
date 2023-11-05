@@ -1,0 +1,42 @@
+Encryption and Decryption Tool
+
+Objective: The objective of this assignment is to gain practical experience with encryption and decryption techniques. Students will develop a command-line or GUI tool for encrypting and decrypting text messages or files. The tool should support common encryption algorithms (e.g., AES, RSA) and key management. Students are encouraged to implement user authentication before allowing access to encryption and decryption functionalities. They will demonstrate the tool's capabilities by encrypting and decrypting sample data.
+
+Instructions:
+
+Encryption and Decryption Tool Development:
+
+Tool Application: Develop an encryption and decryption tool using a programming language of your choice (e.g., Python, Java). The tool should offer the following features:
+
+User Authentication: Implement user authentication to restrict access to the encryption and decryption functionalities. Users must log in with a username and password.
+
+Encryption: Allow users to encrypt text messages or files using common encryption algorithms (e.g., AES, RSA). Provide options for selecting the encryption algorithm, entering encryption keys, and specifying the encryption mode (e.g., ECB, CBC).
+
+Decryption: Enable users to decrypt encrypted messages or files using the appropriate decryption keys and algorithms.
+
+Key Management: Implement key management functionalities, including key generation, storage, and retrieval.
+
+Supported Encryption Algorithms: Clearly document and implement at least two common encryption algorithms (e.g., AES, RSA) within your tool. Explain the advantages and use cases of each algorithm.
+
+User Interface (Optional): If you choose to create a GUI tool, design a user-friendly interface for your application that makes it easy for users to perform encryption and decryption operations.
+
+Sample Data: Prepare sample data (text messages or files) that students can use to demonstrate the tool's capabilities. Ensure that you have both encrypted and plaintext versions of the sample data.
+
+Documentation: Create comprehensive documentation for your encryption and decryption tool application, including:
+
+An overview of the application's design and architecture.
+Instructions on how to run and use your application, including user authentication.
+Explanations of the encryption algorithms implemented.
+Description of sample data and how to use it for testing.
+Security Considerations: Discuss the security measures you have taken to ensure the confidentiality and integrity of encryption and decryption operations in your documentation.
+
+Testing and Validation: Thoroughly test your encryption and decryption tool to ensure that it functions as expected and securely handles encryption keys and data.
+
+Submission: Submit your encryption and decryption tool code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the encryption and decryption tool's functionality, including user authentication, encryption algorithms, and key management.
+Security: The effectiveness of security measures implemented to protect encryption and decryption operations.
+Documentation: The quality and clarity of your documentation, including explanations of your design, encryption algorithms, and security considerations.
+User Interface (if applicable): The usability and user-friendliness of the application's interface (for GUI-based tools).

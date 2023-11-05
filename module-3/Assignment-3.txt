@@ -1,0 +1,39 @@
+ Network Enumeration Tool
+
+Objective: The objective of this assignment is to practice network enumeration techniques using custom tools. Students will be challenged to create a network enumeration tool that discovers active hosts and services on a given network. The tool should implement techniques like ARP scanning, ICMP pinging, and service banner grabbing. Students will be required to generate a list of discovered hosts and services and document the tool's functionality. They should also showcase its results on a sample network.
+
+Instructions:
+
+Network Enumeration Tool Development:
+
+Network Enumeration Tool Application: Develop a network enumeration tool using a programming language of your choice (e.g., Python, Bash). The tool should offer the following features:
+
+Host Discovery: Implement host discovery techniques, such as ARP scanning and ICMP pinging, to identify active hosts on a specified network or subnet.
+
+Service Discovery: Implement service banner grabbing to identify running services on the discovered hosts. The tool should connect to open ports and retrieve service banners to determine the service and version running.
+
+Result Collection: Create a mechanism to collect and organize the discovered hosts and services into a list.
+
+User Interface (Optional): If you choose to create a graphical user interface (GUI) for your tool, design an intuitive interface that allows users to initiate scans and view results.
+
+Documentation: Prepare comprehensive documentation for your network enumeration tool application, including:
+
+An overview of the application's design and architecture.
+Instructions on how to run and use your application, including options for specifying target networks or subnets.
+Explanations of the host and service discovery techniques used.
+Security Considerations: Discuss the ethical and responsible use of the network enumeration tool. Emphasize the importance of obtaining proper authorization before scanning networks.
+
+Testing and Validation: Thoroughly test your network enumeration tool to ensure that it functions as expected and accurately identifies active hosts and services. Test it against different network configurations and document the results.
+
+Sample Network Demonstration: Use your network enumeration tool to perform a scan on a sample network (real or simulated). Document the results of the scan, including discovered hosts and services.
+
+Capabilities and Limitations: Document the capabilities and limitations of your tool. Explain scenarios in which it may not be effective and what types of services it may not detect.
+
+Submission: Submit your network enumeration tool code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the network enumeration tool's functionality, including host discovery, service discovery, result collection, and user interface (if applicable).
+Documentation: The quality and clarity of your documentation, including explanations of your design, discovery techniques, and security considerations.
+Testing and Validation: The effectiveness of your testing and validation process in ensuring the tool accurately identifies hosts and services.
+Sample Network Demonstration: The demonstration of the tool's functionality on a sample network.

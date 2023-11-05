@@ -1,0 +1,38 @@
+Wireless Network Security Analyzer
+
+Objective: The objective of this assignment is to create a tool for analyzing the security of wireless networks. Students will be challenged to build a tool that scans and analyzes nearby wireless networks, identifying security vulnerabilities. They will be instructed to implement checks for common wireless security issues such as open networks, weak encryption, and default credentials. Additionally, students will be required to generate reports detailing the security status of discovered networks.
+
+Instructions:
+
+Wireless Network Security Analyzer Development:
+
+Tool Concept: Introduce the concept of a wireless network security analyzer and its role in identifying and mitigating security vulnerabilities in wireless networks.
+
+Network Scanning: Instruct students to develop a wireless network scanning module that identifies nearby wireless networks, including their names (SSIDs) and encryption methods.
+
+Security Checks: Challenge students to implement checks for common wireless security issues, including but not limited to:
+
+Open Networks: Detect networks that do not require authentication or encryption.
+Weak Encryption: Identify networks with weak encryption methods (e.g., WEP) and recommend stronger encryption options.
+Default Credentials: Check for networks using default or weak credentials for network access.
+Reporting: Task students with generating detailed reports for each discovered wireless network. Reports should include information about the network's security status, any vulnerabilities identified, and recommendations for improving security.
+
+User Interface: Encourage students to create a user-friendly command-line or graphical user interface (GUI) for interacting with the wireless network security analyzer. Ensure that users can initiate scans and view reports easily.
+
+Documentation: Instruct students to prepare comprehensive documentation for their wireless network security analyzer, including:
+
+Tool Overview: Provide an overview of the tool's purpose and capabilities.
+Scanning Process: Explain how the tool scans and identifies nearby wireless networks.
+Security Checks: Describe the implemented security checks and how they work.
+Reporting: Explain the format and contents of the generated reports.
+Testing and Validation: Encourage students to thoroughly test their wireless network security analyzer by scanning various wireless networks, including those with different security configurations.
+
+Security Considerations: Discuss the importance of securing wireless networks and the potential risks associated with open networks, weak encryption, and default credentials.
+
+Submission: Students should submit the complete code for the wireless network security analyzer, the documentation, and a report summarizing the testing results as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The correctness and completeness of the wireless network security analyzer, including network scanning, security checks, and reporting.
+Documentation: The quality and clarity of your documentation, including explanations of tool features, scanning process, security checks, and reporting.
+Testing: The effectiveness of testing and validation to ensure the wireless network security analyzer functions as expected.

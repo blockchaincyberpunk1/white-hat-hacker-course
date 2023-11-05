@@ -1,0 +1,35 @@
+Cryptographic Algorithm Implementation
+
+Objective: The objective of this assignment is to implement a cryptographic algorithm from scratch. Students will be assigned a specific cryptographic algorithm (e.g., AES, RSA, or HMAC) to implement on their own in a programming language of their choice. They will be encouraged to document their implementation, including explanations of the algorithm's inner workings and any design choices made. In addition, students will be instructed to test their implementation against known test vectors to ensure correctness.
+
+Instructions:
+
+Cryptographic Algorithm Implementation:
+
+Algorithm Assignment: Assign each student or group of students a specific cryptographic algorithm to implement from scratch. The assignment should include details about the chosen algorithm and its basic principles.
+
+Algorithm Implementation: Challenge students to implement the assigned cryptographic algorithm in a programming language of their choice. They should write the code for the algorithm's encryption and decryption processes, or relevant functions, depending on the algorithm type.
+
+Documentation: Instruct students to prepare comprehensive documentation for their cryptographic algorithm implementation, including:
+
+Algorithm Overview: Provide an overview of the cryptographic algorithm assigned, explaining its purpose and typical use cases.
+
+Design Choices: Explain any design choices made during the implementation process, such as data structures, key handling, or algorithm variants.
+
+Algorithm Implementation: Detail the code structure and logic for both encryption and decryption (if applicable). Include comments and explanations within the code to aid understanding.
+
+Testing Procedures: Describe how students plan to test the correctness of their implementation, including references to known test vectors (if available).
+
+Testing Against Known Vectors: Instruct students to rigorously test their cryptographic algorithm implementation against known test vectors or standardized test cases. They should ensure that their implementation produces the expected results and adheres to the algorithm's specifications.
+
+Demonstration: Ask students to demonstrate their implementation by running it with sample inputs and showcasing how it encrypts or decrypts data. Encourage them to explain the algorithm's inner workings during the demonstration.
+
+Security Considerations: Discuss the importance of implementing cryptographic algorithms correctly and the potential security risks associated with flawed implementations.
+
+Submission: Students should submit their cryptographic algorithm implementation code, documentation, and test results as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The correctness and completeness of the cryptographic algorithm implementation, as demonstrated by successful encryption and decryption processes.
+Documentation: The quality and clarity of the provided documentation, including explanations of the algorithm, design choices, implementation details, and testing procedures.
+Testing: The effectiveness of testing against known vectors or test cases to ensure correctness.

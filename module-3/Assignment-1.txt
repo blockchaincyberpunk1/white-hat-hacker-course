@@ -1,0 +1,36 @@
+Port Scanner
+
+Objective: The objective of this assignment is to develop a simple port scanner tool to practice network scanning techniques. Students will create a command-line tool in a programming language of their choice (e.g., Python) that can scan a range of IP addresses for open ports. The tool should accept user input for specifying the target IP address range and port range to scan. Students are encouraged to implement multithreading for faster scanning and display the results, indicating which ports are open. They should document the tool's functionality and demonstrate its usage.
+
+Instructions:
+
+Port Scanner Tool Development:
+
+Port Scanner Application: Develop a port scanner tool using a programming language of your choice (e.g., Python, Java). The tool should offer the following features:
+
+User Input: Accept user input for specifying the target IP address range (e.g., a single IP address, a range of IPs, or a subnet) and a range of ports to scan (e.g., a single port, a range of ports, or a list of ports).
+
+Multithreading: Implement multithreading to scan multiple ports or IP addresses concurrently for faster results. You can use libraries like threading (Python) for this purpose.
+
+Port Scanning Logic: Develop the logic to scan the specified IP addresses and ports for open ports. Determine whether each port is open or closed.
+
+Results Display: Display the results of the port scan, indicating which ports are open and which are closed. Provide clear and readable output.
+
+Documentation: Prepare comprehensive documentation for your port scanner tool application, including:
+
+An overview of the application's design and architecture.
+Instructions on how to run and use your application, including how to input target IP addresses and port ranges.
+Explanations of the multithreading implementation and port scanning logic.
+Security Considerations: Discuss the security measures you have taken to ensure that the port scanner operates responsibly and does not violate ethical or legal guidelines. Explain how the tool respects privacy and legality.
+
+Testing and Validation: Test your port scanner tool to ensure that it functions as expected and accurately identifies open ports. Test it against a variety of target IP addresses and port ranges.
+
+Demonstration: Prepare a demonstration of how to use your port scanner tool, showcasing its functionality and efficiency.
+
+Submission: Submit your port scanner tool code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the port scanner tool's functionality, including user input, multithreading, port scanning, and results display.
+Documentation: The quality and clarity of your documentation, including explanations of your design, multithreading implementation, and security considerations.
+Demonstration: The effectiveness of your demonstration in showcasing the tool's usage and functionality.

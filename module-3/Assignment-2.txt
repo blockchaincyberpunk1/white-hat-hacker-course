@@ -1,0 +1,39 @@
+Web Vulnerability Scanner
+
+Objective: The objective of this assignment is to explore web application scanning for vulnerabilities. Students will build a web vulnerability scanner that identifies common vulnerabilities in web applications, such as SQL injection and Cross-Site Scripting (XSS). The scanner should crawl web pages, analyze HTML forms, and send malicious payloads to detect vulnerabilities. Students are required to provide a report summarizing the vulnerabilities found, their severity, and suggested fixes. They should also document the scanner's capabilities and limitations.
+
+Instructions:
+
+Web Vulnerability Scanner Development:
+
+Web Vulnerability Scanner Application: Develop a web vulnerability scanner using a programming language of your choice (e.g., Python, Ruby, JavaScript). The scanner should offer the following features:
+
+Crawling and Analysis: Implement web crawling to navigate through web pages, analyze HTML forms, and identify potential entry points for payloads.
+
+Payload Injection: Develop the capability to send malicious payloads (e.g., for SQL injection, XSS) to web forms and input fields.
+
+Vulnerability Detection: Create detection mechanisms that identify common vulnerabilities, such as SQL injection, XSS, and any other vulnerabilities you choose to target.
+
+Reporting: Generate a detailed report summarizing the vulnerabilities found during the scan. Include information about the vulnerability type, affected URLs, severity levels, and suggested fixes.
+
+User Interface (Optional): If you choose to create a graphical user interface (GUI) for your scanner, design a user-friendly interface that allows users to initiate scans, view results, and generate reports.
+
+Documentation: Prepare comprehensive documentation for your web vulnerability scanner application, including:
+
+An overview of the application's design and architecture.
+Instructions on how to run and use your application, including options for configuring scans.
+Explanations of the vulnerability detection mechanisms and payload injection techniques used.
+Security Considerations: Discuss the ethical and responsible use of the vulnerability scanner. Emphasize the importance of obtaining proper authorization before scanning web applications.
+
+Testing and Validation: Thoroughly test your web vulnerability scanner to ensure that it functions as expected and accurately identifies vulnerabilities. Test it against different web applications and document the results.
+
+Capabilities and Limitations: Document the capabilities and limitations of your scanner. Explain scenarios in which it may not be effective and what types of vulnerabilities it may not detect.
+
+Submission: Submit your web vulnerability scanner code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the web vulnerability scanner's functionality, including crawling, payload injection, vulnerability detection, reporting, and user interface (if applicable).
+Documentation: The quality and clarity of your documentation, including explanations of your design, detection mechanisms, and security considerations.
+Testing and Validation: The effectiveness of your testing and validation process in ensuring the scanner accurately identifies vulnerabilities.
+Capabilities and Limitations: The thoroughness of your documentation regarding the scanner's capabilities and limitations.

@@ -1,0 +1,40 @@
+Access Control System
+
+Objective: The objective of this assignment is to explore access control mechanisms and principles by challenging students to create an access control system. Students will develop a system that simulates user access to resources (e.g., files, folders) on a computer system. The system should allow users to define access rules, roles, and permissions for different resources. Students must implement both role-based access control (RBAC) and discretionary access control (DAC) mechanisms. They will demonstrate the functionality of their access control system through scenarios and access requests.
+
+Instructions:
+
+Access Control System Development:
+
+Access Control System Application: Develop an access control system application using a programming language of your choice (e.g., Python, Java). The system should offer the following features:
+
+User Authentication: Implement user authentication to allow users to log in to the access control system.
+
+Resource Management: Enable users to create, manage, and organize resources (e.g., files, folders) within the system.
+
+Access Rules: Allow users to define access rules, roles, and permissions for each resource. Implement role-based access control (RBAC) to manage access based on user roles.
+
+Discretionary Access Control (DAC): Implement discretionary access control (DAC) to allow resource owners to control access to their resources. Resource owners should be able to grant or revoke permissions to other users.
+
+Role-Based Access Control (RBAC): Implement RBAC mechanisms to assign users to roles and grant permissions based on these roles. Users should inherit permissions from their assigned roles.
+
+Access Control Scenarios: Create multiple access control scenarios that demonstrate the functionality of your system. These scenarios should involve user access requests to resources with different access rules, roles, and permissions.
+
+Documentation: Prepare comprehensive documentation for your access control system application, including:
+
+An overview of the application's design and architecture.
+Instructions on how to run and use your application, including user authentication.
+Explanations of the RBAC and DAC mechanisms implemented.
+Description of access control scenarios and how they showcase your system's functionality.
+Security Considerations: Discuss the security measures you have taken to ensure the confidentiality and integrity of resource access control in your documentation.
+
+Testing and Validation: Thoroughly test your access control system to ensure that it functions as expected and securely manages access to resources.
+
+Submission: Submit your access control system application code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the access control system's functionality, including RBAC, DAC, and access control scenarios.
+Security: The effectiveness of security measures implemented to protect resource access control.
+Documentation: The quality and clarity of your documentation, including explanations of your design, mechanisms, and security considerations.
+Access Control Scenarios: The relevance and effectiveness of the access control scenarios in demonstrating your system's functionality.

@@ -1,0 +1,39 @@
+Firewall Rule Implementation
+
+Objective: The objective of this assignment is to develop a basic firewall rule management system. Students will be tasked with creating a command-line or web-based application that allows users to define firewall rules for a simulated network environment. They will be instructed to implement features for adding, modifying, and deleting firewall rules. Additionally, students will be encouraged to validate and sanitize user inputs to prevent rule injection and ensure security.
+
+Instructions:
+
+Firewall Rule Management System Development:
+
+Application Concept: Introduce the concept of a firewall rule management system. Explain to students that they will be creating an application that simulates a network firewall and allows users to define rules for network traffic.
+
+User Features: Instruct students to implement the following user features in the application:
+
+Add Rule: Allow users to add new firewall rules by specifying attributes such as source IP address, destination IP address, port numbers, and action (allow or deny).
+
+Modify Rule: Provide the ability to modify existing firewall rules, allowing users to change rule attributes.
+
+Delete Rule: Allow users to delete firewall rules they no longer need.
+
+Input Validation and Sanitization: Emphasize the importance of input validation and sanitization to prevent rule injection attacks and ensure the security of the application. Instruct students to validate and sanitize user inputs for all rule attributes to prevent malicious input.
+
+Simulated Network: Explain that the application should simulate a network environment where firewall rules are applied. When a user defines or modifies a rule, it should affect how network traffic is allowed or denied in the simulated network.
+
+Documentation: Instruct students to prepare comprehensive documentation for their firewall rule management system, including:
+
+An overview of the application's design and purpose.
+Detailed explanations of user features (add, modify, delete rules).
+Instructions on how to use the application to define and manage firewall rules.
+Explanation of input validation and sanitization techniques used.
+Testing: Encourage students to thoroughly test their firewall rule management system to ensure that it functions as expected. They should validate the security features by attempting to inject malicious rules and verifying that they are rejected.
+
+Security Considerations: Discuss the importance of input validation, sanitization, and secure rule management in real-world firewall configurations. Highlight the potential risks of inadequate rule management.
+
+Submission: Students should submit the complete application code, documentation, and a brief report on their testing results as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The correctness and completeness of the firewall rule management system, including user features (add, modify, delete), simulated network behavior, and input validation.
+Documentation: The quality and clarity of your documentation, including explanations of design, user features, input validation, and usage instructions.
+Security Measures: The effectiveness of input validation and sanitization techniques in preventing rule injection attacks.

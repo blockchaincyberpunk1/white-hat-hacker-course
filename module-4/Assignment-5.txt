@@ -1,0 +1,39 @@
+Secure Web Application Development
+
+Objective: The objective of this assignment is to develop a secure web application from scratch, following best practices for web security. Students will be tasked with building a simple web application that incorporates security best practices from the ground up. The application should handle user authentication, input validation, session management, and protection against common web vulnerabilities. Students will be instructed to document the security features they have implemented and explain how each one contributes to a secure application.
+
+Instructions:
+
+Secure Web Application Development:
+
+Application Concept: Allow students to choose a web application concept for their project (e.g., a blog, an e-commerce site, a social media platform). The chosen concept should involve user interactions, user accounts, and data storage.
+
+Application Development: Challenge students to develop the web application using a programming language and framework of their choice. The application should include the following security features:
+
+User Authentication: Implement user authentication to ensure that only authorized users can access certain parts of the application. Securely store user credentials and manage user sessions.
+
+Input Validation: Apply input validation and sanitation techniques to prevent common vulnerabilities such as SQL injection, XSS (Cross-Site Scripting), and CSRF (Cross-Site Request Forgery).
+
+Session Management: Implement secure session management to protect against session hijacking and fixation attacks. Ensure sessions expire after a reasonable idle time.
+
+Protection Against Common Web Vulnerabilities: Address common web vulnerabilities such as security misconfigurations, insecure direct object references, and insecure file uploads.
+
+Documentation: Instruct students to prepare comprehensive documentation for their secure web application, including:
+
+An overview of the application's design and architecture, highlighting the security features implemented.
+Detailed explanations of how each security feature contributes to a secure application.
+Instructions on how to use the application, including how to create user accounts, log in, and perform common actions.
+Security Testing: Challenge students to thoroughly test their web application to ensure that the implemented security features work as intended. Encourage them to perform security testing, including vulnerability scanning and manual testing, to identify and fix any security issues.
+
+Demonstration: Ask students to demonstrate their secure web application by simulating common attack scenarios (e.g., attempting SQL injection or XSS attacks) and showing how the application effectively mitigates these threats.
+
+Security Considerations: Discuss the importance of each security feature and how it contributes to a secure web application. Emphasize the need for security awareness in the development process.
+
+Submission: Submit the complete web application code and documentation as a compressed folder (ZIP or TAR) by [Due Date] at [Due Time].
+
+Grading: Your assignment will be evaluated based on the following criteria:
+
+Functionality: The completeness and correctness of the web application's functionality, including user authentication, input validation, session management, and protection against common web vulnerabilities.
+Documentation: The quality and clarity of your documentation, including explanations of security features, usage instructions, and security considerations.
+Security Testing: The effectiveness of the security testing process in identifying and addressing security issues.
+Demonstration: The successful demonstration of how the application handles common attack scenarios and security threats.
